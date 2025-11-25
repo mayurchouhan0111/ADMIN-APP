@@ -1,0 +1,5 @@
+{
+  "name": "Zomato Admin Dashboard",
+  "description": "A comprehensive restaurant management dashboard featuring analytics, order tracking, menu management, and settings configuration.",
+  "requestFramePermissions": []
+}
